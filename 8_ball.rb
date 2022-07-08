@@ -43,4 +43,3 @@ puts
 
 # Выводим случайный ответ из массива answers
 puts answers.sample
-
